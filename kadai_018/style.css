@@ -6,7 +6,7 @@
 }
 
 .top-child {
-  width: 160px;
+  width: 20%;
   display: inline-block;
   background-color: #ffd9df;
 }
@@ -60,12 +60,14 @@
 }
 
 #bottom-child02 {
+  position: relative;
   top: 100px;
   left: 200px;
 }
 
 #bottom-child03 {
-  top: 200px;
+  position: relative;
+  top: 100px;
   left: 400px;
 }
 
